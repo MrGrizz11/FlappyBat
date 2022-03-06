@@ -1,2 +1,19 @@
 # FlappyBat
- Flappy Bat is one of my Android games. The game is published on Play Market, its free and ready to be downloaded and played by you! (only Andoid support)
+>**Flappy Bat** is an ***Android*** game made in <a href="https://unity.com/">Unity</a> and published on Google Play.
+<a href="https://play.google.com/store/apps/details?id=com.AtmanProjects.FlappyBat">Download Link</a><br>
+
+>You can also try it on your ***Windows Machine***. <a href="https://github.com/MrGrizz11/FlappyBat/raw/main/Flappy%20Bat%20Windows%20Game.rar">Try on Windows</a>
+
+<img src="https://github.com/MrGrizz11/FlappyBat/blob/main/1.png">
+
+<h2>How it works?</h2>
+<img src="https://github.com/MrGrizz11/FlappyBat/blob/main/2.gif">
+
+<h2>2D Animations</h2>
+
+| Spider | Bat |
+| ------------- | ------------- |
+| <img src="https://github.com/MrGrizz11/FlappyBat/blob/main/3.gif">  | <img src="https://github.com/MrGrizz11/FlappyBat/blob/main/5.gif">  |
+
+<h2>UI</h2>
+<img src="https://github.com/MrGrizz11/FlappyBat/blob/main/4.gif">
