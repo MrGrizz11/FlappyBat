@@ -1,4 +1,7 @@
 # FlappyBat
+
+(Unfortunately Flappy Bat has been deleted from Google Play due to account inactivity)
+
 >**Flappy Bat** is an ***Android*** game made in <a href="https://unity.com/">Unity</a> and published on Google Play.
 <a href="https://play.google.com/store/apps/details?id=com.AtmanProjects.FlappyBat">Download Link</a><br>
 
