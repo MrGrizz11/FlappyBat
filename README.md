@@ -1,6 +1,6 @@
 # FlappyBat
 
-Unfortunately Flappy Bat has been deleted from Google Play 'cause it was too cool ;)
+Unfortunately Flappy Bat has been deleted from Google Play 'cause it was too cool 😉
 
 >**Flappy Bat** is an ***Android*** game created with <a href="https://unity.com/" target="_blank">Unity</a> and published on Google Play.
 <a href="https://play.google.com/store/apps/details?id=com.AtmanProjects.FlappyBat" target="_blank">Download Link</a><br>
